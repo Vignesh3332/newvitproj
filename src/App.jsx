@@ -8,7 +8,8 @@ function App() {
 
   return (
     <>
-      <hi>Hello ci-cd new vite proj</hi>
+      <h1>Hello ci-cd </h1>
+      
     </>
   )
 }
